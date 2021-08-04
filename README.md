@@ -53,4 +53,3 @@ public class Test extends JavaPlugin implements CommandExecutor {
     }
 }
 ```
-![alt text](https://imgur.com/a/0t0IRUO)
