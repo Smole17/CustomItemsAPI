@@ -3,10 +3,12 @@ Fast creation of items with events
 
 **Checked stable version: 1.12.2**
 
-My api have 3 type of event:
+My API have 3 type of event:
 
 **handleEventInteract(...);**
+
 **handleEventConsume(...);**
+
 **handleEventSplash(...);**
 
 Simple usage (ru.smole.example.Test):
