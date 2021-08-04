@@ -1,8 +1,10 @@
 # CustomItemsAPI
 Fast creation of items with events
 
+# Stable version
 **Checked stable version: 1.12.2**
 
+# Little description
 My API have 3 type of event:
 
 **handleEventInteract(...);**
@@ -12,9 +14,8 @@ My API have 3 type of event:
 **handleEventSplash(...);**
 
 
-
-
-Simple usage (ru.smole.example.Test):
+# Simple usage
+ru.smole.example.Test:
 ```java
 public class Test extends JavaPlugin implements CommandExecutor {
 
