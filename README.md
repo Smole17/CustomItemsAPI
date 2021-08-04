@@ -11,6 +11,9 @@ My API have 3 type of event:
 
 **handleEventSplash(...);**
 
+
+
+
 Simple usage (ru.smole.example.Test):
 ```java
 public class Test extends JavaPlugin implements CommandExecutor {
