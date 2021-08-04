@@ -1,5 +1,6 @@
 # CustomItemsAPI
 Fast creation of items with events 
+**Checked version: 1.12.2**
 
 Simple usage (ru.smole.example.Test):
 ```java
